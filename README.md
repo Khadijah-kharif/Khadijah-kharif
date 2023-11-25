@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Khadijah-kharif
+- 👀 I’m interested in web programming
+- 🌱 I’m currently a laravel developper , and I am proficient in various technologies such as HTML, CSS, Python, PHP, JavaScript, React, Bootstrap, Node.js, and Express.js.
+- 📫 How to reach me (my email : khadija.kharif01@gmail.com)
